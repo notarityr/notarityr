@@ -1,4 +1,4 @@
-### 🌿Bem vindo! Me Chamo Túlio, sou Bacharel em Ciências Biológicas e Mestre em Engenharia Florestal. Depois de atuar por anos como Laboratorista e Professor, decidi no ano de 2025 entrar na área de Tecnologia da Informação. Estudo Sistemas de Informação pela Unisinos, Full Stack Python na EBAC e Participo de diversos Bootcamps e Cursos Profissionalizantes na [DIO](https://www.dio.me/users/wilesnotari).
+### 🌿Bem vindo! Me Chamo Túlio, sou Bacharel em Ciências Biológicas e Mestre em Engenharia Florestal. Depois de atuar por anos como Laboratorista e Professor, decidi no ano de 2025 entrar na área de Tecnologia da Informação. Estudo Sistemas de Informação pela Unisinos, Full Stack na EBAC e Participo de diversos Bootcamps e Cursos Profissionalizantes na [DIO](https://www.dio.me/users/wilesnotari).
 
 
 
